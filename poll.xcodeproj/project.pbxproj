@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		CEA0BA495A270B12401EB838 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AF4359309C90C04DB3CA3CC /* libPods.a */; };
 		D963E21B1CA77DBD00BAC706 /* Anything.m in Sources */ = {isa = PBXBuildFile; fileRef = D963E21A1CA77DBD00BAC706 /* Anything.m */; };
-		D963E21E1CA7CB5300BAC706 /* GestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D963E21D1CA7CB5300BAC706 /* GestureView.swift */; };
 		D9E119721CA5FABE0051DADB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E119711CA5FABE0051DADB /* main.m */; };
 		D9E119751CA5FABE0051DADB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E119741CA5FABE0051DADB /* AppDelegate.m */; };
 		D9E119781CA5FABE0051DADB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D9E119771CA5FABE0051DADB /* ViewController.m */; };
@@ -85,7 +84,6 @@
 		D963E2191CA77DBD00BAC706 /* Anything.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Anything.h; sourceTree = "<group>"; };
 		D963E21A1CA77DBD00BAC706 /* Anything.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Anything.m; sourceTree = "<group>"; };
 		D963E21C1CA7CB5300BAC706 /* poll-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "poll-Bridging-Header.h"; sourceTree = "<group>"; };
-		D963E21D1CA7CB5300BAC706 /* GestureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GestureView.swift; sourceTree = "<group>"; };
 		D9E1196D1CA5FABE0051DADB /* poll.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = poll.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9E119711CA5FABE0051DADB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D9E119731CA5FABE0051DADB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -189,7 +187,6 @@
 		D9E1196F1CA5FABE0051DADB /* poll */ = {
 			isa = PBXGroup;
 			children = (
-				D963E21D1CA7CB5300BAC706 /* GestureView.swift */,
 				D9E119731CA5FABE0051DADB /* AppDelegate.h */,
 				D9E119741CA5FABE0051DADB /* AppDelegate.m */,
 				D9E119761CA5FABE0051DADB /* ViewController.h */,
@@ -477,7 +474,6 @@
 				D9E119751CA5FABE0051DADB /* AppDelegate.m in Sources */,
 				D9E119721CA5FABE0051DADB /* main.m in Sources */,
 				D963E21B1CA77DBD00BAC706 /* Anything.m in Sources */,
-				D963E21E1CA7CB5300BAC706 /* GestureView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
