@@ -7,7 +7,10 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 @interface Anything : NSObject
+@property(strong,nonatomic) NSMutableArray *something;
+@property (weak,nonatomic) UIView *pi;
 
 @end
