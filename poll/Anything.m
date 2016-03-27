@@ -1,13 +1,13 @@
 //
-//  Something.h
+//  Anything.m
 //  poll
 //
 //  Created by WWDC on 27/03/16.
 //  Copyright © 2016 WWDC. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import "Anything.h"
 
-@interface Something : NSObject
+@implementation Anything
 
 @end
